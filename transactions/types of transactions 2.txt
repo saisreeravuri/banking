@@ -1,0 +1,25 @@
+6. AEPS
+The full form of AEPS is Aadhaar Enabled Payment System. It can be used for all banking transactions, such as cash withdrawal, payment transactions, Aadhaar to Aadhar fund transfers, balance inquiry, etc.
+
+Here all the transactions are carried using Aadhaar verification. So, technically, you don’t even need to visit the branch physically, or provide debit or credit cards, or even sign a document.
+
+It will only work if your Aadhaar number is registered with the bank where you hold an account.
+
+7. PoS terminals
+Conventionally, referred to those hand-held devices (credit/debit card readers) that are installed at all physical stores.
+
+There are various kinds of PoS terminals like Physical PoS, Mobile PoS, and Virtual PoS. Physical PoS are available at shops and retail outlets, whereas mobile PoS terminals work via a tablet or smartphone. This is beneficial for small-time business owners as they can’t invest in expensive registers. Lastly, there are Virtual PoS systems that use web-based applications to process payments.
+
+
+8. Cheque
+With the help of a cheque, anyone can transfer money from one account to another account. What you need to do is draw a cheque stating the payee as your name along with the account number where you have to transfer the amount and your signature just below the numeric amount.
+
+If the recipient’s account is also in the same bank as yours, then the transfer is completed within one day. There is no particular limit in the transfer amount, but there are restrictions like you cannot withdraw more than Rs.50,000 from a non-home branch.
+
+9. Demand Drafts
+When one person wants to send or transfer money to another person who is in another town/city. Then the person who wants to transfer the amount can deposit cash in the bank or issue a check in favor of the issuing bank, which will issue him a demand draft.
+
+The person who wants to receive the amount receives the demand draft, and then he gives it to the bank/branch where he/she has his savings account and receives the payment. But remember, banks usually charge a commission for issuing demand drafts.
+
+10. Banker’s Cheque or Payment Order
+Banker’s Cheque or Payment Order is just like demand drafts that are issued to send and receive payments within the city. These are only valid for a very short duration, and banks may charge a commission for issuing them.

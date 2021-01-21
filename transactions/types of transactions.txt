@@ -1,0 +1,26 @@
+1. NEFT (National Electronic Fund Transfer)
+One of the most preferred forms of money transfer from one bank to another is NEFT. For making an NEFT transaction, you just need two details, which are:
+
+Account Number
+IFSC Code
+There is no maximum cap on the amount of money that can be transferred. However, individual banks have the right to set a limit.
+
+2. RTGS (Real Time Gross Settlement)
+RTGS is just like NEFT, but how the amount gets credited to another account and the minimum payment cap is different. You should use this service if you need to transfer more than 2 lakhs. Also, there is no maximum limit on the upper limit. It takes 30 mins for the transaction to complete.
+
+3. IMPS (Immediate Payment Service)
+Immediate Payment Service abbreviated is an instant fund transfer service that works 24/7. IMPS can also be defined as a combination of NEFT and RTGS.
+
+However, to prevent fraud, the minimum cap on the transaction limit is set to be quite low. For making an IMPS transaction, all you need to know is the receiver (account holder’s) IMPS ID (MMID) and phone number.
+
+4. UPI (Unified Payments Interface)
+The Unified Payment Interface abbreviated as UPI is another real-time payment system that facilitates transactions through VPA (Virtual Payment Address).
+
+For transferring the amount, you don’t require any account detail, al you need is the mobile number or the UPI ID. You can make UPI transactions 24/7. However, the upper cap on UPI-enabled transactions is Rs. 1 lakh.
+
+
+5. Banking cards
+One of the most used payment methods that come with several features and benefits, such as security of payments, convenience, etc., are the banking cards.
+
+An alternative advantage of these cards is that you can use them to make various kinds of digital payments, PoS machines, etc. For instance, customers can store their card information on the digital wallet and make cashless payments. Some of the well-known card payment systems are VISA, MasterCard, and Rupay.
+
